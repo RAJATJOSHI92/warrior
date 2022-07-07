@@ -1,2 +1,2 @@
 # warrior
-<H1>Beginning of new journey</H1> 
+<Marquee>Beginning of new journey</marquee> 
