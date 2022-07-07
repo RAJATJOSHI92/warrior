@@ -1,2 +1,2 @@
 # warrior
-<sub>Beginning of new journey</sub> 
+<H1>Beginning of new journey</H1> 
