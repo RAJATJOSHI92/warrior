@@ -1,2 +1,2 @@
 # warrior
-Beginning of new journey 
+# Beginning of new journey 
